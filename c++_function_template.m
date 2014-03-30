@@ -3,10 +3,10 @@
 //
 // IDECodeSnippetCompletionPrefix: templatefunction
 // IDECodeSnippetCompletionScopes: [TopLevel]
-// IDECodeSnippetIdentifier: FF27D094-644B-4BD2-80D8-5A22E02F3455
+// IDECodeSnippetIdentifier: AA466DBE-42F4-42D2-B450-566C1A3C0E31
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
-// IDECodeSnippetVersion: 1
+// IDECodeSnippetVersion: 2
 template <<#template parameters#>>
 <#return type#> <#function name#>(<#function parameters#>) {
   <#statements#>
