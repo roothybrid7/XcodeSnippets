@@ -1,4 +1,4 @@
-// Ignored ObjC protocol method implementation
+// Pragma - Ignored ObjC protocol method implementation
 // 
 //
 // IDECodeSnippetCompletionPrefix: ignoredobjcprotooverride
