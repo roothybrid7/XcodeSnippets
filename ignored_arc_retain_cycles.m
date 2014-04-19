@@ -1,4 +1,4 @@
-// Ignored ARC retain cycles
+// Pragma - Ignored ARC retain cycles
 // 
 //
 // IDECodeSnippetCompletionPrefix: ignoredretain
