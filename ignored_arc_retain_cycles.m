@@ -1,7 +1,7 @@
 // Ignored ARC retain cycles
 // 
 //
-// IDECodeSnippetCompletionPrefix: ignoreretain
+// IDECodeSnippetCompletionPrefix: ignoredretain
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 6B5D176F-D892-449C-9F15-6588D27076D5
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
