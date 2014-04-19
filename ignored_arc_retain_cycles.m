@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Warc-retain-cycles"
-    <#message#>
+    <#stat
 #pragma clang diagnostic pop
