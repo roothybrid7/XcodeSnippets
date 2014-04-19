@@ -11,4 +11,6 @@
 #pragma clang diagnostic ignored "-Wobjc-protocol-method-implementation"
 <#scope#> (<#return type#>)<#method signature#>
 
+
+}
 #pragma clang diagnostic pop
