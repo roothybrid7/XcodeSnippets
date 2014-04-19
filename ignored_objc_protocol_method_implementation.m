@@ -10,12 +10,4 @@
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wobjc-protocol-method-implementation"
 
-+ (RCCredential *)sharedCredential
-{
-    if ([RCTestCase mockCredential]) {
-        return [RCTestCase mockCredential];
-    }
-    return invokeSupersequentNoParameters();
-}
-
 #pragma clang diagnostic pop
