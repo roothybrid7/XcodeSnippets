@@ -9,7 +9,7 @@
 // IDECodeSnippetVersion: 0
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wobjc-protocol-method-implementation"
-<#scope#> (<#return type#>)<#method signature#>
+<#scope#> (<#ReturnType#>)<#method signature#>
 {
     <#statements#>
 }
