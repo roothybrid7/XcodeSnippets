@@ -9,5 +9,5 @@
 // IDECodeSnippetVersion: 0
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Warc-performSelector-leaks"
-    <
+    <#statement
 #pragma clang diagnostic pop
