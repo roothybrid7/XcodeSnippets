@@ -1,6 +1,7 @@
 // Pragma - Ignored ARC performSelector leaks
 // 
 //
+// IDECodeSnippetCompletionPrefix: ignoredperformselectorleaks
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: FFFDDC2A-FB00-4944-96AD-4FD4C569C563
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
