@@ -9,4 +9,4 @@
 // IDECodeSnippetVersion: 0
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Warc-retain-cycles"
-        textSize = [text sizeWithFont:font constrainedToSize:#pragma clang diagnostic pop
+#pragma clang diagnostic pop
