@@ -8,21 +8,5 @@
 // IDECodeSnippetVersion: 2
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wobjc-property-no-attribute"
-
-@property NSString *objectID;
-@property NSString *organizationMembershipID;
-
-@property NSString *organizationID;
-@property NSDate *createdAt;
-@property NSDate *updatedAt;
-@property NSDate *deletedAt;
-
-@property NSInteger lockVersion;
-
-#pragma mark RelationShips
-
-@property GPTRLMUser *user;
-@property GPTRLMOrganization *organization;
-@property GPTRLMRole *role;
-
+<#statement#>
 #pragma clang diagnostic pop
